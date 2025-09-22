@@ -1,4 +1,4 @@
-This repository contains my script to run a multivariate Cox proportional hazards (Cox PH) model with clinical features and protein expression as predictors to assess laryngeal cancer patient survival risk.
+This repository contains my script to run a multivariable Cox proportional hazards (Cox PH) model with clinical features and protein expression as predictors to assess laryngeal cancer patient survival risk.
 
 **This script is for demonstration purposes only, Access to the real patient dataset is restricted**
 
